@@ -11,6 +11,10 @@ module.exports = {
       padding: {
         'default': '13%'
       },
+    
+      colors: {
+        'gray-1': '#555555'
+      },
       transitionDuration: {'300': '300ms' },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
